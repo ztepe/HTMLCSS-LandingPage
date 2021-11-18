@@ -153,3 +153,25 @@ section {
     border-radius: 100px;
     max-width: 100%;
 }
+
+.hero {
+    background-image: src="image/hero.jpg";
+    background-size: cover;
+    background-position: center;
+    text-transform: uppercase;
+}
+
+.hero h1 {
+    position: relative;
+
+}
+
+.hero h2 {
+    color: #faa541;
+}
+
+.hero h1, h2 {
+    font-size: 63px;
+    font-weight: 700px;
+    line-height: 0.9;
+}
