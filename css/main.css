@@ -111,4 +111,33 @@ section {
     width: 100px;
     height: 30px;
     padding: 0;
+    border: 0;
+}
+
+.nav-list {
+    padding-left: 0;
+    width: 575px;
+    margin-top: 10px;
+}
+
+.nav-list li a {
+    font-size: 16px;
+    text-transform: uppercase;
+    font-weight: 700;
+    letter-spacing: .2px;
+}
+
+.profile {
+    margin-left: auto;
+
+}
+
+.account {
+    padding: 15px;
+    font-size: 18px;
+    color: #364147;
+}
+
+.account a {
+    font-size: 14px;
 }
