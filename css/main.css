@@ -159,6 +159,7 @@ section {
     background-size: cover;
     background-position: center;
     text-transform: uppercase;
+    height: 400px;
 }
 
 .hero h1 {
@@ -170,7 +171,7 @@ section {
     color: #faa541;
 }
 
-.hero h1, h2 {
+.hero h1, .hero h2 {
     font-size: 63px;
     font-weight: 700px;
     line-height: 0.9;
