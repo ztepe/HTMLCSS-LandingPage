@@ -247,7 +247,7 @@ section {
 .full-banner:before {
     content: "";
     position: absolute;
-    border: 1p solid #ffffff;
+    border: 1px solid #ffffff;
     border-top: 30px;
     border-bottom: 30px;
     border-left: 50px;
